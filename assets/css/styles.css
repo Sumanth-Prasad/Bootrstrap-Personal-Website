@@ -1,0 +1,13 @@
+.container-fluid {
+}
+
+@media (max-width: 1200px) {
+  .education-header {
+    font-size: 2vw;
+  }
+}
+
+body {
+  position: relative;
+}
+
